@@ -7,9 +7,9 @@ Pod::Spec.new do |spec|
   spec.license      = { :type => "MIT", :file => "LICENSE" }
   spec.author       = { "Mav" => "" }
   spec.platform     = :ios, "11.0"
-  spec.source       = { :git => "https://github.com/reynhutahaean/BNIMpaaspec.git", :tag => "0.0.1"}
+  spec.source       = { :git => "https://github.com/reynhutahaean/BNIMpaaS.git", :tag => "0.0.1"}
 
-  spec.preserve_paths = "BNIMpaaspec.framework/*"
+  spec.preserve_paths = "BNIMpaaS.framework/*"
   
   spec.dependency  "APMobileFramework","1.0.0.230301105431"
   spec.dependency  "mPaas","1.0.0.230708233714"
@@ -22,7 +22,7 @@ Pod::Spec.new do |spec|
   spec.dependency  "APProtocolBuffers","1.0.1.230223103631"
 
 
-  spec.vendored_frameworks = 'BNIMpaaspec.framework'
+  spec.vendored_frameworks = 'BNIMpaaS.framework'
   spec.requires_arc = true
   spec.xcconfig = { 'FRAMEWORK_SEARCH_PATHS' => '$(PODS_ROOT)/BNIMpaaS' }
   spec.pod_target_xcconfig = { 'VALID_ARCHS' => 'x86_64 armv7' } 
