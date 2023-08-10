@@ -27,7 +27,7 @@ Pod::Spec.new do |spec|
   spec.xcconfig = { 'FRAMEWORK_SEARCH_PATHS' => '$(PODS_ROOT)/BNIMpaaS' }
   spec.pod_target_xcconfig = { 'VALID_ARCHS' => 'x86_64 armv7' } 
   spec.pod_target_xcconfig = { "DEFINES_MODULE" => "YES" }
-  spec.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
-  spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+  # spec.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+  # spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
  
 end
