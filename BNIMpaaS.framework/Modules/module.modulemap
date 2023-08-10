@@ -1,0 +1,4 @@
+framework module BNIMpaaS {
+  header "BNIMpaaS-Swift.h"
+  requires objc
+}
