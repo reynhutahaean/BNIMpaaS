@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>.DS_Store</key>
+		<data>
+		kUCT5+aPYDr/Ikasstm1OsuFTHA=
+		</data>
 		<key>APMobileFramework.bundle/DefaultMobileRuntime.plist</key>
 		<data>
 		DnsxIt44aGD8NbYScaEAjishTDw=
@@ -34,7 +38,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		ouxpqwles65+uSaSqfJ6RkCOY2w=
+		sEEjSbr3VVNRj9Q8/150xp2JEdk=
 		</data>
 		<key>BNIMpaaS-Info.plist</key>
 		<data>
@@ -42,7 +46,7 @@
 		</data>
 		<key>Headers/BNIMpaaS-Swift.h</key>
 		<data>
-		TfW1HjEq3TsyIJD2wgmDEgDD1t0=
+		yZbkhtb5uja5ayJZGvKSGp77tKY=
 		</data>
 		<key>Headers/HXTestSwift.swift</key>
 		<data>
@@ -60,9 +64,17 @@
 		<data>
 		8XcD08L6gjyMPIdQiX+P75vpA+0=
 		</data>
+		<key>Modules/.DS_Store</key>
+		<data>
+		5J1YhVXKC72MvPPpRKJhAOBCpmc=
+		</data>
 		<key>Modules/BNIMpaaS.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
 		evAC5HOhd3WZbFNEBj4uGzy8lqs=
+		</data>
+		<key>Modules/BNIMpaaS.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<data>
+		6OVQppZ4MCxB+P+Y5pV/vAuTZHU=
 		</data>
 		<key>Modules/BNIMpaaS.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -75,6 +87,18 @@
 		<key>Modules/BNIMpaaS.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
 		QOW7XTnclMBsbbLsWBQ+wDdew2I=
+		</data>
+		<key>Modules/BNIMpaaS.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<data>
+		FSPnLbho3G+LL9smI3XgVOqBIQ4=
+		</data>
+		<key>Modules/BNIMpaaS.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		98RSzNyboKdfumq7UXEwAgRXVTI=
+		</data>
+		<key>Modules/BNIMpaaS.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		GEhqxmdDkyf1RX0xedF2FofI8iE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -181,11 +205,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ouxpqwles65+uSaSqfJ6RkCOY2w=
+			sEEjSbr3VVNRj9Q8/150xp2JEdk=
 			</data>
 			<key>hash2</key>
 			<data>
-			2ebW0tN6XnrowncMYL79mDXg9yx2Ro//24GKQi4Lqr0=
+			Dh678veDp+9efSL7D2HxKriWfYKe/NU/amAUJDOxGSc=
 			</data>
 		</dict>
 		<key>BNIMpaaS-Info.plist</key>
@@ -203,11 +227,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TfW1HjEq3TsyIJD2wgmDEgDD1t0=
+			yZbkhtb5uja5ayJZGvKSGp77tKY=
 			</data>
 			<key>hash2</key>
 			<data>
-			TQaKXNnQrlwIFFJtc1zywLzaPDAp6O2o7KTkQBSXDQI=
+			s4mfD/MAgFrqW2IJsmc7ru8VhaZkhr63HoJ2kwOkupU=
 			</data>
 		</dict>
 		<key>Headers/HXTestSwift.swift</key>
@@ -254,6 +278,17 @@
 			jpqM35eO5cwxS+BxFYBDeTVVta9sTruQBOTQBI5o7K0=
 			</data>
 		</dict>
+		<key>Modules/BNIMpaaS.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6OVQppZ4MCxB+P+Y5pV/vAuTZHU=
+			</data>
+			<key>hash2</key>
+			<data>
+			owe0caDuS3QymqeJsn0B9PA9rnB5dJPkxSeA64Y39h0=
+			</data>
+		</dict>
 		<key>Modules/BNIMpaaS.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
@@ -285,6 +320,39 @@
 			<key>hash2</key>
 			<data>
 			Hx+9CxGjAf1w2vo8F0xHx9sykgTsI6FSn4ZDxjrSWx0=
+			</data>
+		</dict>
+		<key>Modules/BNIMpaaS.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FSPnLbho3G+LL9smI3XgVOqBIQ4=
+			</data>
+			<key>hash2</key>
+			<data>
+			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
+			</data>
+		</dict>
+		<key>Modules/BNIMpaaS.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			98RSzNyboKdfumq7UXEwAgRXVTI=
+			</data>
+			<key>hash2</key>
+			<data>
+			c4JQaOQX+OO4ddlYdhgAfGU6qtgj5+EEVSze+XVZ0/o=
+			</data>
+		</dict>
+		<key>Modules/BNIMpaaS.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GEhqxmdDkyf1RX0xedF2FofI8iE=
+			</data>
+			<key>hash2</key>
+			<data>
+			78ZN9SbMnwg8ZmKLAwwd/H16qDWBE7YaVGgRtR1bNvc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
