@@ -11,15 +11,15 @@ Pod::Spec.new do |spec|
 
     spec.preserve_paths = "BNIMpaaS.framework/*"
     
-    s.dependency  "APMobileFramework","1.0.0.230301105431"
-    s.dependency  "mPaas","1.0.0.230708233714"
-    s.dependency  "APLog","3.0.2.230706200749"
-    s.dependency  "APRemoteLogging","1.0.0.230509135338.27"
-    s.dependency  "UTDID","1.0.2.190226130141"
-    s.dependency  "MPaaSCryptoSDK","1.0.0.230524154253"
-    s.dependency  "APOpenSSL","1.0.0.230223132705"
-    s.dependency  "MPAntSSM","1.0.0.230523113201"
-    s.dependency  "APProtocolBuffers","1.0.1.230223103631"
+    spec.dependency  "APMobileFramework","1.0.0.230301105431"
+    spec.dependency  "mPaas","1.0.0.230708233714"
+    spec.dependency  "APLog","3.0.2.230706200749"
+    spec.dependency  "APRemoteLogging","1.0.0.230509135338.27"
+    spec.dependency  "UTDID","1.0.2.190226130141"
+    spec.dependency  "MPaaSCryptoSDK","1.0.0.230524154253"
+    spec.dependency  "APOpenSSL","1.0.0.230223132705"
+    spec.dependency  "MPAntSSM","1.0.0.230523113201"
+    spec.dependency  "APProtocolBuffers","1.0.1.230223103631"
   
   
     spec.vendored_frameworks = 'BNIMpaaS.framework'
